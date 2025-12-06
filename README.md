@@ -1,17 +1,69 @@
-# CollegeConnect – ECU Student Collaboration Platform
+🎓 CollegeConnect – ECU Student Collaboration Platform
 
-College Connect is a front-end web application that allows ECU students to share posts, like and comment, form study groups, and view upcoming events.  
-This version is built entirely with HTML, CSS, and JavaScript, with no backend required.
+CollegeConnect is a front-end web application designed for East Central University (ECU) students to communicate, collaborate, and stay organized.
+This interactive prototype simulates a social platform where students can:
 
-## Features
-- Student accounts (15 demo users)
-- Create posts
-- Like posts
-- Comment on posts
-- Filter by course or user
-- Interactive UI with ECU branding
+Create posts
 
-## How to Run
-1. Download or clone the repository
-2. Open `index.html` in your browser
-3. The app will run locally with no setup
+Like and comment on posts
+
+Filter posts by course or student
+
+View 15 demo student accounts
+
+See upcoming events
+
+Enjoy a modern, stylish UI with ECU branding
+
+This project is built entirely using HTML, CSS, and JavaScript, with no backend required.
+
+🚀 Features
+🧑‍🤝‍🧑 15 Demo Students
+
+Switch between different student profiles
+
+Each student can post, like, and comment
+
+Simulates a real classroom social experience
+
+📝 Post System
+
+Create posts with text and optional course tags
+
+Like ♥ or unlike posts
+
+Add comments to any post
+
+Real-time feed updates
+
+🎚 Filters
+
+View all posts
+
+View only “My Posts”
+
+View posts related to your course focus
+
+🎨 Modern UI + ECU Branding
+
+Dynamic styling
+
+Modern fonts (Poppins)
+
+ECU color palette
+
+Glowing avatar badges
+
+Sticky header + responsive layout
+
+📅 Events Panel
+
+Displays example campus events and deadlines
+
+Styled with pill tags and dark theme
+
+💾 LocalStorage Support
+
+Posts, likes, comments stay saved even after refreshing the page
+
+Works entirely in the browser
